@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow - Clean & Simple To-Do List",
+  "description": "A clean, responsive, and beginner-friendly to-do list web app to organize, track, and complete daily tasks effortlessly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
